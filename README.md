@@ -10,9 +10,8 @@ This project implements a Long Short-Term Memory (LSTM) model for generating ind
 
 ## Features
 
-- **Text Generation**: Generate text in an indigenous language based on learned patterns.
-- **Customizable Training**: Easily modify training parameters and dataset for different languages or styles.
-- **Interactive Interface**: Simple command-line interface for generating text on-the-fly.
+- **DAtaSet**: We collected a small dataset of the Quechua Christian songs, this is located in dataset, as well tried with other Spanish dataset.
+- **Customizable Training**: This is part of the full notebook showed in the video.
 
 ## Requirements
 
